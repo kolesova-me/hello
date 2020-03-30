@@ -1,6 +1,4 @@
 <?php
-<<<<<<< HEAD
-=======
 session start ();
->>>>>>> test
 echo "Hello, world!"
+echo "hello, git!"
